@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/leilaalipour/leilaalipour/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### leila Ali pour
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal informations
 
-### Markdown
+---
++ name: ali pour
++ last name : leila
++ Date of birth : 1999/august/16
++ I am a Computer engineering student
++ location : Tehran , I.R.Iran
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Skill Highlights
 
-# Header 1
-## Header 2
-### Header 3
+---
++ Knowing Korean language
++ Programming language of c++
++ Programming language of JAVA
++ Programming language of CSS and HTML
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+---
++ Diploma : Alavi eslami school
+_ 2017
++ Bachelor of science : computer Engineering
+_ 2017,payam Noor University of tehran 
 
-**Bold** and _Italic_ and `Code` text
+### Favorites
 
-[Link](url) and ![Image](src)
-```
+---
++ Programming
++ korean language
++ travel 
++ drama
++ sport
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### working Experience
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leilaalipour/leilaalipour/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### contact with me
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
++ email:leila.alpr@yahoo.com
+
+--- 
+### [رزومه فارسی](resume-fa.md)
